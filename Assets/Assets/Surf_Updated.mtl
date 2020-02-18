@@ -1,0 +1,10 @@
+newmtl marble_01_diff_1k
+map_Kd marble_01_diff_1k.jpg
+Kd 1 1 1
+d 1
+
+newmtl ProBuilderDefault
+map_Kd GridBox_Default.png
+Kd 1 1 1
+d 1
+
